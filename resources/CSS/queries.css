@@ -10,25 +10,20 @@
     
     .row {padding: 0 2%}
 
-    .header img {
-        width: auto;
-    }
+
     
     header {
-    background-size: cover;
-    background-position: center;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 100%;
-    height: 100vh;
-    background-attachment: fixed;
-    }
+        background-size: auto;
+        background-position: auto;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 100%;
+        height: 100vh;
+        background-attachment: fixed;
+        }
     
-    header img {
-        background-size: cover;
-        background-position: 50%, 50%;
-    }
+    
 }
 */
 
