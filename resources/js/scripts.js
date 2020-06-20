@@ -18,7 +18,7 @@ $(document).ready(function() {
        $('html, body').animate({scrollTop: $('.js--section-plans').offset().top}, 1000); 
     });
     
-    $('.js--scroll-to-start').click(function () {
+    $('.js--scroll-to-features').click(function () {
        $('html, body').animate({scrollTop: $('.js--section-features').offset().top}, 1000); 
     });
     
