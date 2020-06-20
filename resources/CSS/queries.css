@@ -68,7 +68,7 @@
     
 
 /* for medium size phones - small tablets (481-767px)*/
-@media only screen and (max-width: 767px){
+@media only screen and (max-width: 1125px){
     
     
     body { font-size: 16px; }
