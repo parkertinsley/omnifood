@@ -17,8 +17,8 @@
     header {
     background-size: cover;
     background-position: center;
-    left: 30%;
-    right: 30%;
+    max-width: 100%;
+    height: auto;
     height: 100vh;
     background-attachment: fixed;
 }
