@@ -1,0 +1,9 @@
+fluid-grid: http://www.responsivegridsystem.com/
+
+normalize: http://necolas.github.io/normalize.css/
+
+Lato Font: https://fonts.google.com/specimen/Lato?query=lato&selection.family=Lato:ital,wght@0,100;0,300;0,400;1,300&sidebar.open#about
+    - used normal 400, light 300, light 300 italic, and small 100
+    
+icons: https://ionicons.com/
+
