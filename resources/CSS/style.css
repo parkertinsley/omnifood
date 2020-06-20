@@ -207,7 +207,7 @@ header {
 
 .hero-text-box {
     position: absolute;
-    width: auto;
+    width: 1140px;
     top: 50%;
     left: 50%;
     -webkit-transform: translate(-50%, -50%);
@@ -393,10 +393,10 @@ header {
     border: 2px solid #e67e22;
     display: inline-block;
     border-radius: 50%;
-    height: 90px;
-    width: 90px;
+    height: 54px;
+    width:54px;
     text-align: center;
-    padding: 0px;
+    padding: 5px;
     float: left;
     font-size: 150%;
     margin-right: 25px;
@@ -584,6 +584,7 @@ footer {
     padding: 40px;
 }
 
+}
 .footer-nav {
     list-style: none;
     float: left;
