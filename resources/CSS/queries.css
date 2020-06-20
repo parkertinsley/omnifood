@@ -15,12 +15,12 @@
     }
     
     header {
-    background-size: fill;
-    background-position: bottom;
+    background-size: cover;
+    background-position:right;
     display: block;
     margin-left: auto;
     margin-right: auto;
-    height: 100%;
+    width: 100%;
     height: 100vh;
     background-attachment: fixed;
 }
